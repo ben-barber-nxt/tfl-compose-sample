@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/domain/stop-point" />
             <option value="$PROJECT_DIR$/domain/stop-point-search" />
             <option value="$PROJECT_DIR$/ui" />
+            <option value="$PROJECT_DIR$/ui/stop-details" />
             <option value="$PROJECT_DIR$/ui/stop-search" />
             <option value="$PROJECT_DIR$/ui/theme" />
             <option value="$PROJECT_DIR$/viewmodels" />
